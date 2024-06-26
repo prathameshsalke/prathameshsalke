@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
 ###
 
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
